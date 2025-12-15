@@ -1,0 +1,18 @@
+Next, I need a notebook to
+1. Download stock data for last 5 years (go backward from current date) for 5 stocks tickers are in a list object
+2. Download data for Nifty 50 last 5 years again backward
+3. create a returns data frame with adjusted close data for the 5 stocks and Nifty the data frame should have date as the index and returns for the 5 stocks the column names can be the ticker symbols
+4. Create a correlation matrix and a correllogram for the data
+5. Use a heat map in the correllogram
+
+I also want the descriptive statistics for the dataframe formatted to 2 decimal and transposed
+
+Histograms of the returns of each of the assets
+
+Finally, a plot of the SD versus return for each asset as a scatter with legend
+
+Finally, plot the regression line and compute Beta for each ticker other than the Nifty
+The slope and intercept can be displayed on each scatter plot
+
+Finally, plot the regression line and compute Beta for each ticker other than the Nifty
+The slope and intercept can be displayed on each scatter plot

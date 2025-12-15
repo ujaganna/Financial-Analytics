@@ -1,0 +1,8 @@
+Define a function which takes a List of tickers and creates a returns data frame with an equal weighted portfolio
+
+I want to test the portfolio performance
+I first want to test for Normality of the portfolio
+Then I want to do tests if the returns are not coorelated or that they are random
+Then I want to test if the portfolio is giving abnormal returns compared to a benchmark portfolio
+
+give me code to print English for the interpretation of all the tests

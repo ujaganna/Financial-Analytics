@@ -1,0 +1,23 @@
+Refer the data sheet in the excel called Tata Steel attached
+The data for Profit and Loss are in A16 to K31
+The data for Balance Sheet are in A56 till K70
+The data for Cash Flow are in A81 till K85
+The data for Quarterly data are in A41 till K50
+legends for the bar chart can be made horizontal and top left
+In the bar chart also only year in xlabel
+The year alone can be x-label
+Date column to be formatted as Date in Line chart
+Create python code to read the data sheet and create de-normalized data with date in rows
+1. The Profit and loss in one data frame and nice visuals with stacked bar chart over time for each cost component. Sales and Profit over time can be another visual as legends
+2. Balance sheet data in another data frame. Date again to be denormalized.  IIn the Balance sheet plot, change it to a clustered column, and plot two charts, one for Assets and one for Liabiliies, with Year on x-label. In assets plot Cash, Inventory, Receivables, investment and Net Block and in liabilities plot Borrowings, Other Liabillities, Reserves and Equity Share Capital
+3. Cash flows to be denormalized in another data frame. The Cash flow from operations, investing and financing to be plotted in a separate line chart as legends The cash flow plot needs to be clustered with one cluster per year on x-label with all three cash flows in each year
+4. Finally, the quarterly data can be pulled in to another data frame and depreciation, interest and expenses can be in a stacked bar chart over timeI N the quarterly components plot enure there is no Legend overlay For quarterly data create two stacked column plots
+1.  Sales ,  Other Income Profit before tax 
+ Tax 
+ Net profit 
+ Operating Profit
+2.  Expenses 
+ Depreciation 
+ Interest
+
+
